@@ -9,7 +9,7 @@ namespace Practice
     {
         public void MakeChicken()
         {
-            Console.WriteLine("The Chef makes chcicken");
+            Console.WriteLine("The Chef makes chicken");
         }
 
         public void MakeSalad()
